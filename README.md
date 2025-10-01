@@ -1,11 +1,8 @@
 # Hello, I'm Rhys
 
-[Brief Introduction - Remove this afterwards]
-
-I am a cyber security enthusiast with a skill gaining and adaptive mindset
+I am a cyber security enthusiast with a skill gaining and adaptive mindset.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in IT throughout my youth has led me to develop an obsession for cybersecurity, specifically aiming to join a world revolved around aiding customers/clients with their IT security and support needs.
 
@@ -29,12 +26,15 @@ My journey in IT throughout my youth has led me to develop an obsession for cybe
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Brim-0A6E8C?&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDMyIDMyIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxjaXJjbGUgY3g9IjE2IiBjeT0iMTYiIHI9IjE2IiBmaWxsPSIjZmZmIi8+PHRleHQgeD0iMTYiIHk9IjIxIiBmb250LXNpemU9IjEwIiBmb250LWZhbWlseT0iQXJpYWwiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZpbGw9IiMwQTZFOEMiPkI8L3RleHQ+PC9zdmc+&logoColor=white" />
 </div>
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-4B275F?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0054A6?&style=for-the-badge&logo=shield&logoColor=white" />
 </div>
 
 ### SIEM
