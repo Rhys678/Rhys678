@@ -4,7 +4,7 @@ I am a cyber security enthusiast with a skill gaining and adaptive mindset.
 
 ## Objective
 
-My journey in IT throughout my youth has led me to develop an obsession for cybersecurity, specifically aiming to join a world revolved around aiding customers/clients with their IT security and support needs.
+My journey in IT throughout my youth has led me to develop a strong passion for cybersecurity, specifically aiming to join a world revolved around aiding customers/clients with their IT security and support needs.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
