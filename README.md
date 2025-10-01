@@ -44,7 +44,6 @@ My journey in IT throughout my youth has led me to develop a strong passion for 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
@@ -55,3 +54,5 @@ My journey in IT throughout my youth has led me to develop a strong passion for 
 - Detection Lab
 - SOC Automation Project
 - SOC Automation with AI
+- Threat Hunting Lab
+- Phishing SOC Simulation
