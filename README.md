@@ -57,3 +57,4 @@ My journey in IT throughout my youth has led me to develop an obsession for cybe
 ## Projects
 - Detection Lab
 - SOC Automation Project
+- SOC Automation with AI
